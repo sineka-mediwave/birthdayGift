@@ -1,9 +1,16 @@
 body {
     text-align: center;
+    font-family: fantasy;
+    background: rgb(163, 46, 163);
 }
 
 #tylor {
     width: 150px;
-    height: 150px  ;
     border-radius: 50%;
+    border: 6px solid rgb(209, 150, 62);
+}
+
+
+h1, h2, h4 {
+    text-shadow: 2px 0px 2px white;
 }
