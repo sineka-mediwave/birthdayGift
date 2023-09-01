@@ -29,3 +29,7 @@ turn the header into flex
 
 added gift image and title
 created a class for the image and title
+
+## replace iamge with div
+
+so that it looks like the proveded design.
