@@ -1,6 +1,6 @@
 body {
     font-family: fantasy;
-    background: rgb(163, 46, 163);
+    background: linear-gradient(rgb(163, 46, 163), rgb(209, 150, 62)) ;
     text-align: center;
 }
 

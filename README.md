@@ -41,3 +41,12 @@ while hovering show the giff image.
 ## adding more giff file
 
 using class and id selector with div tag
+
+## Adding gradient color
+
+adding linear gradient color from violet to brown
+
+```
+    background: linear-gradient(rgb(163, 46, 163), rgb(209, 150, 62)) ;
+
+```
