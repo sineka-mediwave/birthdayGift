@@ -66,6 +66,10 @@ h1, h2, h4 {
     background-image: url(assets/blank.gif);
 }
 
+#gift-img-cheers:hover {
+    background-image: url(assets/thankyou.gif);
+}
+
 .gift-title {
     margin-bottom: 5px;
 }
