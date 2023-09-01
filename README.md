@@ -37,3 +37,7 @@ so that it looks like the proveded design.
 ## hover in css
 
 while hovering show the giff image.
+
+## adding more giff file
+
+using class and id selector with div tag

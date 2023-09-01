@@ -58,6 +58,14 @@ h1, h2, h4 {
     background-image: url(assets/you.gif);
 }
 
+#gift-img-red:hover {
+    background-image: url(assets/taylor-swift.gif);
+}
+
+#gift-img-blank:hover {
+    background-image: url(assets/blank.gif);
+}
+
 .gift-title {
     margin-bottom: 5px;
 }
