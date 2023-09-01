@@ -33,3 +33,7 @@ created a class for the image and title
 ## replace iamge with div
 
 so that it looks like the proveded design.
+
+## hover in css
+
+while hovering show the giff image.

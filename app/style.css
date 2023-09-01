@@ -49,6 +49,11 @@ h1, h2, h4 {
     background-image: url("assets/gift-cover.jpg");
     background-size: cover;
 }
+
+#gift-img-you:hover {
+    background-image: url(assets/you.gif);
+}
+
 .gift-title {
     margin-bottom: 5px;
 }
