@@ -50,6 +50,10 @@ h1, h2, h4 {
     background-size: cover;
 }
 
+#gift-img-toyou:hover {
+    background-image: url(assets/cinderella-chandler.gif);
+}
+
 #gift-img-you:hover {
     background-image: url(assets/you.gif);
 }
