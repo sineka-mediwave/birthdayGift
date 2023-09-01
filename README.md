@@ -24,3 +24,8 @@ turn the header into flex
     margin: 10px 0px;
 }
 ```
+
+## added gift image
+
+added gift image and title
+created a class for the image and title

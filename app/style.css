@@ -1,6 +1,7 @@
 body {
     font-family: fantasy;
     background: rgb(163, 46, 163);
+    text-align: center;
 }
 
 #tylor {
@@ -32,4 +33,21 @@ h1, h2, h4 {
     padding: 5px 10px;
     border-radius: 5px;
     margin: 10px 0px;
+}
+
+.gift-section {
+    margin-top: 50px;
+
+}
+
+.gift-img {
+    width: 300px;
+    border: 6px solid white;
+    border-radius: 10px;
+}
+.gift-title {
+    margin-bottom: 5px;
+}
+.gift-hint {
+    margin-top: 0px;
 }
