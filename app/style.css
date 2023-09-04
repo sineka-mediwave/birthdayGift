@@ -13,24 +13,18 @@ body {
 
 h1, h2, h4 {
     text-shadow: 2px 0px 2px white;
+    padding: 2px;
 }
 
-#main {
+.main {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-#bd-age {
+.bd {
     background: rgb(202, 130, 22);
     padding: 3px 7px;
-    border-radius: 5px;
-    margin: 10px 0px;
-}
-
-#bd-yr {
-    background: rgb(202, 130, 22);
-    padding: 5px 10px;
     border-radius: 5px;
     margin: 10px 0px;
 }
@@ -50,23 +44,23 @@ h1, h2, h4 {
     background-size: cover;
 }
 
-#gift-img-toyou:hover {
+.gift-img-toyou:hover {
     background-image: url(assets/cinderella-chandler.gif);
 }
 
-#gift-img-you:hover {
+.gift-img-you:hover {
     background-image: url(assets/you.gif);
 }
 
-#gift-img-red:hover {
+.gift-img-red:hover {
     background-image: url(assets/taylor-swift.gif);
 }
 
-#gift-img-blank:hover {
+.gift-img-blank:hover {
     background-image: url(assets/blank.gif);
 }
 
-#gift-img-cheers:hover {
+.gift-img-cheers:hover {
     background-image: url(assets/thankyou.gif);
 }
 
